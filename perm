@@ -1,4 +1,0 @@
-cd ~/
-mkdir code
-cd code
-git clone https://github.com/ramanan03/ramanan03.github.io
